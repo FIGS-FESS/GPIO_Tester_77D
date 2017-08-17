@@ -1,0 +1,6 @@
+
+Debug/subdir_vars.mk
+*.mk
+*.obj
+Debug/GPIO_Tester_77D.out
+*.d
